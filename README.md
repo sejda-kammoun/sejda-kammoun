@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sejda Kammoun</h1>
-<h3 align="center">An ambitious CyberSecurity Engineering Student</h3>
+<h3 align="center">An ambitious CyberSecurity Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn5-ss18.sharpschool.com/UserFiles/Servers/Server_211876/Image/Our%20Departments/Information%20Technology/Cybersecurity/Cybersecurity%20Awareness%20Month/2022/Private%20data.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejda-kammoun&label=Profile%20views&color=0e75b6&style=flat" alt="sejda-kammoun" /> </p>
